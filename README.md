@@ -1,4 +1,4 @@
-# Cryptocurrency Dashboard
+# Cryptocurrency Analytics Dashboard
 
 This repository contains the source code for an interactive cryptocurrency dashboard that monitors over 350 cryptocurrencies and creates rankings based on the strength of the current uptrends and breakouts.
 This dashboard can be used as a tool to find strong coins and tokens that are outperforming Bitcoin or showing a sudden increase in volatility to the upside. It is mostly intended for finding setups for swing/position trades and rotations from one sector to another. It may not be suitable for short term trades and the metrics shown in the dashboard are useless during downtrends.
